@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my resume"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I would like to let you know more about me...
